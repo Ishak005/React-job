@@ -11,6 +11,7 @@ const MainLayout = () => {
     <>
     <Navbar />
     <Outlet />
+    <ToastContainer />
     </>
   )
 }
