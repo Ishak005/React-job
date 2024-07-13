@@ -12,7 +12,7 @@ const navbar = () => {
             className="flex flex-1 items-center justify-center md:items-stretch md:justify-start"
           >
             {/* <!-- Logo --> */}
-            <NavLink className="flex flex-shrink-0 items-center mr-4" to="/index">
+            <NavLink className="flex flex-shrink-0 items-center mr-4" to="/">
               <img
                 className="h-10 w-auto"
                 src={logo}
